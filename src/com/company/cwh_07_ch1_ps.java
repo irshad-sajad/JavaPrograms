@@ -13,11 +13,13 @@ public class cwh_07_ch1_ps {
 //        System.out.println(sum);
 
         //Question2
+        //method-1: type casting int to float
 //        int subject1 = 45;
 //        int subject2 = 50;
 //        int subject3 = 85;
 //        float cgpa = (float) (subject1+subject2+subject3)/30;
 
+        //using float as datatype
 //        float subject1 = 45;
 //        float subject2 = 67;
 //        float subject3 = 86;
