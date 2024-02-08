@@ -48,6 +48,7 @@ public class cwh_14_string_methods {
 //        System.out.println(name.equals("harry")); //false -> case sensitive
 //        System.out.println(name.equalsIgnoreCase("harry")); //true
 
+        //Escape Sequence Characters --> sequence of characters after backslash
         System.out.println("I am escape sequence \" double quote");
         System.out.println("I am escape sequence \n new line");
         System.out.println("I am escape sequence \t tab");
